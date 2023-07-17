@@ -5,9 +5,9 @@ Simple script written in python using scapy for the attacker <br>
 Bind9 as poor-configured DNS server <br>
 Victim monitoring with vmstat <br>
 
+<br>
+		
+Attacker -->	Bind relay(s) --> Victim <br>
 
-		Bind relay0 <br>
-Attacker -->	Bind relay1 --> Victim <br>
-		Bind relay2 <br>
 
 
