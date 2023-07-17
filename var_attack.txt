@@ -1,0 +1,14 @@
+15
+172.18.77.77
+172.18.0.2
+dom.examp.com
+172.18.1.3
+dom.examp1.com
+172.18.2.2
+dom.examp2.com
+172.18.0.2
+dom.examp1.com
+172.18.1.3
+dom.examp2.com
+172.18.2.2
+dom.examp.com
